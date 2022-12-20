@@ -1,4 +1,4 @@
-# CS246-A5-Chess
+# ♟ CS246-A5-Chess ♟
 This is my CS246 Final Project, which involved developing a chess application with heavy emphasis on <b>Object-Oriented Programming</b> concepts and design/software architectural patterns.
 I received a 96% overall.
 
@@ -31,6 +31,9 @@ Per project requirements and some bonuses, this program has implemented the foll
 - <i>history</i> for viewing a move history of the game's past moves
   
 
-## Documentation:
+## Design && Documentation:
 - My Design Document is <a href="design.pdf">here</a>.
 - My UML diagram for this project is <a href="uml.pdf">here</a>.
+
+## Further Details:
+<a href="project_requirements.pdf">Project Requirements</a> + <a href="chess.pdf">Specific Chess Instructions</a> 
