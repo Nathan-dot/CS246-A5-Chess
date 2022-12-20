@@ -1,5 +1,6 @@
 # CS246-A5-Chess
-This is my CS246 Final Project, which involved developing a chess application with heavy emphasis on Object-Oriented Programming concepts and design/software architectural patterns.
+- This is my CS246 Final Project, which involved developing a chess application with heavy emphasis on Object-Oriented Programming concepts and design/software architectural patterns.
+- Received a 96% overall
 
 ## Summary
 Per project requirements and some bonuses, this program has implemented the following:
