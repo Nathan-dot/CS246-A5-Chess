@@ -36,4 +36,4 @@ Per project requirements and some bonuses, this program has implemented the foll
 - My UML diagram for this project is <a href="uml.pdf">here</a>.
 
 ## Further Details:
-<a href="project_requirements.pdf">Project Requirements</a> + <a href="chess.pdf">Specific Chess Instructions</a> 
+<a href="project_guidelines.pdf">Project Guidelines</a> + <a href="chess.pdf">Specific Chess Instructions</a> 
