@@ -9,7 +9,7 @@ Per project requirements and some bonuses, this program has implemented the foll
 - Undo Feature
 - Setup Mode
 - Text and Graphical Display via X11
-Sample Example:
+- Sample Example:
 <div>
   <img alt="X11 Sample" src="chessboard.png"/>
 </div>
