@@ -1,13 +1,18 @@
 # CS246-A5-Chess
-This is my CS246 Final Project, which involved developing a chess application.
+This is my CS246 Final Project, which involved developing a chess application with heavy emphasis on Object-Oriented Programming concepts and design/software architectural patterns.
 
 ## Summary
-This program has implemented:
-- Setup Mode
-- Player .vs. Player game mode + Robust Player .vs. Player interface
-- Undo Feature
+Per project requirements and some bonuses, this program has implemented the following:
+- Player .vs. Player game mode 
+- Robust Player .vs. Player interface
 - Move History
+- Undo Feature
+- Setup Mode
 - Text and Graphical Display via X11
+Sample Example:
+<div>
+  <img alt="X11 Sample" src="chessboard.png"/>
+</div>
 
 ## Command Interpreter:
 - <i>game human human</i> starts a new game.
