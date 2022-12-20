@@ -1,0 +1,8 @@
+#ifndef COLOUR_H
+#define COLOUR_H
+
+enum class Colour {White, Black, NoColour};
+
+
+
+#endif
