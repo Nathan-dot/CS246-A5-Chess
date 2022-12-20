@@ -25,3 +25,6 @@ This program has implemented:
 - <i>history</i> for viewing a move history of the game's past moves
   
 
+## Documentation:
+My Design Document is <a href="design.pdf">here</a>.
+My UML diagram for this project is <a href="uml.pdf">here</a>.
