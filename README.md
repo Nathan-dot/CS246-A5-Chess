@@ -31,5 +31,5 @@ Per project requirements and some bonuses, this program has implemented the foll
   
 
 ## Documentation:
-My Design Document is <a href="design.pdf">here</a>.
-My UML diagram for this project is <a href="uml.pdf">here</a>.
+- My Design Document is <a href="design.pdf">here</a>.
+- My UML diagram for this project is <a href="uml.pdf">here</a>.
